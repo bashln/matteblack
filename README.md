@@ -34,7 +34,7 @@ Este repositório foi criado pela fusão de:
 Com lazy.nvim:
 ```lua
 {
-  "paesmont/matteblack",
+  "bashln/matteblack",
   config = function()
     vim.cmd("colorscheme matteblack")
   end
